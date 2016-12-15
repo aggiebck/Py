@@ -3,7 +3,7 @@ import random
 def blackjack():
         play = 1
         while (play == 1):
-                print("Welcome to this douchebag's Black Jack game")
+                print("Welcome to Black Jack")
                 input("Press enter to roll...")
 
                 ply_die1 = random.randrange(1, 11)
